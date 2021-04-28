@@ -1,0 +1,28 @@
+body{
+    background: url("https://wallpaperaccess.com/full/2825710.gif");
+}
+h1{
+    color: aliceblue;
+    text-shadow: #000000 1px 1px 0, #000000 -1px -1px 0,
+    #000000 -1px 1px 0, #000000 1px -1px 0;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.run{
+    width: 200px;
+    height: 50px;
+    background: #303030;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    border: #000000;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    color: #dddbdb;
+    font-size: 30px;
+    margin-top: 50px;
+    padding-top: 15px;
+    text-decoration: none;
+    text-align: center;
+}
